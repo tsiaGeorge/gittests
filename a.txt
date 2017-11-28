@@ -3,3 +3,5 @@ this is from branchA
 this is from branchB
 this a commit from master
 this is another commit from master
+this is from branchC
+this is another commit from branchC
